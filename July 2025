@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Laura Aitcheson Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2em;
+      line-height: 1.6;
+    }
+    img.profile {
+      width: 150px;
+      border-radius: 50%;
+    }
+    header, section, footer {
+      margin-bottom: 2em;
+    }
+  </style>
+</head>
+<body>
+
+<!-- Header with contact information and profile picture -->
+<header>
+  <h1>Laura Estelle Aitcheson</h1>
+  <img src="profile.jpg" alt="Profile Picture of Laura Aitcheson" class="profile">
+  <p>Email: <a href="mailto:laura.aitcheson@gmail.com">laura.aitcheson@gmail.com</a></p>
+  <p>Phone: (518) 232-1541</p>
+  <p>Location: 270 County Route 25, Oswego, NY 13126</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/lauraaitcheson" target="_blank">lauraaitcheson</a></p>
+</header>
+
+<!-- Summary section summarizing qualifications -->
+<section>
+  <h2>Summary</h2>
+  <p>Innovative and data-driven learning experience designer with over 7 years of success leading instructional design projects for digital platforms. Experienced in building scalable, modular, and standards-aligned training for enterprise and education clients.</p>
+  <ul>
+    <li>Expert in ADDIE model and cross-functional collaboration</li>
+    <li>Skilled in eLearning, assessments, multimedia, and SaaS training</li>
+    <li>Proficient with modern instructional tools and technologies</li>
+  </ul>
+</section>
+
+<!-- Work Experience section with job history -->
+<section>
+  <h2>Experience</h2>
+
+  <!-- Job 1 -->
+  <article>
+    <h3>Project Lead & Learning Designer — CreatorUp</h3>
+    <p><em>Apr 2025 – Present</em></p>
+    <ul>
+      <li>Led end-to-end design of 12 CTE courses, 18 weeks each</li>
+      <li>Partnered with SMEs to enhance curriculum and alignment</li>
+      <li>Mentored junior designers and oversaw quality assurance</li>
+      <li>Tools: Articulate Rise, Camtasia, Canvas LMS, Adobe CC</li>
+    </ul>
+  </article>
+
+  <!-- Job 2 -->
+  <article>
+    <h3>Curriculum & Assessment Specialist — Soomo Learning</h3>
+    <p><em>Sep 2021 – Mar 2025</em></p>
+    <ul>
+      <li>Led design teams, increasing efficiency by 15%</li>
+      <li>Created SCORM-compliant, data-driven learning modules</li>
+      <li>Boosted learner engagement by 20% via analytics</li>
+    </ul>
+  </article>
+
+  <!-- Additional jobs omitted for brevity but should follow same structure -->
+</section>
+
+<!-- Education section with degrees -->
+<section>
+  <h2>Education</h2>
+  <ol>
+    <li>
+      <strong>Florida State University</strong><br>
+      Master of Library & Information Science<br>
+      <em>Honors: FSU Graduate Grant Recipient</em>
+    </li>
+    <li>
+      <strong>State University of New York: Empire State College</strong><br>
+      Bachelor of Arts in Gender Studies<br>
+      <em>Honors: Dean’s List, NSCS</em>
+    </li>
+  </ol>
+</section>
+
+<!-- Skills section in grouped list format -->
+<section>
+  <h2>Skills</h2>
+  <ul>
+    <li><strong>eLearning Tools:</strong> Articulate Rise, Storyline, Camtasia, Captivate, Adobe CC, Vyond</li>
+    <li><strong>LMS & Standards:</strong> Canvas, SCORM, xAPI, Habitat, metadata tagging</li>
+    <li><strong>Workflow Tools:</strong> Jira, monday.com, Smartsheet, Miro</li>
+    <li><strong>Multimedia & Design:</strong> Video scripting, narration, editing, job aids</li>
+    <li><strong>Technical Platforms:</strong> Windows, macOS, Google Suite, Microsoft Office</li>
+    <li><strong>Typing Speed:</strong> 80+ WPM</li>
+  </ul>
+</section>
+
+<!-- Footer with attribution and comments -->
+<footer>
+  <p><em>Last updated: July 2025</em></p>
+  <!-- Developer note: Replace 'profile.jpg' with an actual image of Laura for production -->
+  <!-- Attribution: HTML structure inspired by MDN and W3Schools templates -->
+</footer>
+
+<!--
+  COMMENTS:
+
+  - The resume is organized using semantic HTML: <header>, <section>, <article>, <footer>
+  - Used <ul> and <ol> to structure skills and education logically.
+  - Included <a> tags for email and LinkedIn hyperlinks.
+  - Profile picture should be named "profile.jpg" and placed in the same directory.
+  - This format is accessible and screen-reader friendly.
+-->
+
+</body>
+</html>
